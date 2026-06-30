@@ -32,3 +32,10 @@ void fork_simplu() {
     }
 
 }
+
+int main(int argc, char *argv[]) {
+
+    fork_simplu();
+
+    return 0;
+}
