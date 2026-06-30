@@ -1,4 +1,4 @@
-# Materiale Laborator
+# Sisteme de Operare - Materiale Laborator
 
 - [Lab 1 - Linia de comandă și execuția](lab1/suport-lab/so-lab-1.pdf) | [materiale](lab1/materiale/)
 - [Lab 2 - Funcții de sistem](lab2/suport-lab/so-lab-2.pdf) | [materiale](lab4/materiale/)
