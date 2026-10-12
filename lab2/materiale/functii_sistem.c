@@ -61,3 +61,22 @@ void func6() {
     else
         perror("Eroare la stat");
 }
+
+
+int main(int argc, char const *argv[]) {
+
+    func1();
+
+    func2(); // creaza exemplu.txt
+
+    func3(); // il citeste
+
+    func6(); // ii afiseaza dimensiunea
+
+    int r = func5(); // eroare intentionata
+    printf("func5 a returnat: %d\n", r);
+
+    func4(); // asteapta input de la tastatura
+
+    return 0;
+}
